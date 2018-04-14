@@ -1,2 +1,2 @@
 # Android_Exercise
-安卓练习
+进行简单的安卓练习
